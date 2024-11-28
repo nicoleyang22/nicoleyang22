@@ -2,21 +2,20 @@
 
 <details>
   <summary>📂 About Me (Click to view):</summary>
+  
   I'm a self-taught person with skills in data engineering and analysis. I'm always exploring ways to improve processes and solve real-world problems using data. 
   
 </details>
----
 
 ## 🛠 Skills
 
-- **Programming Technologies:** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Business Intelligence Tools:** Excel, MS Power BI
-- **Project Management:** Google Sheets, Notion
-
+- **Programming Technologies : ** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
+- **Business Intelligence Tools : ** Excel, MS Power BI
+- **Project Management : ** Google Sheets, Notion
+  
 ---
 
 ## 📚 Projects
-
 ---
 
 ### SQL
@@ -51,5 +50,3 @@
   - [Analyze International Debt Statistics - PostgreSQL](#)  
   - [Analyzing Motorcycle Part Sales](#)
 </details>
-
--->
