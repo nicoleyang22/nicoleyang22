@@ -1,15 +1,11 @@
 ## Hi there 👋
 
-<!--
-**nicoleyang22/nicoleyang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hello and Welcome to My Github Profile! 👋
+## Hello and Welcome to My Github Profile! 👋
 
 <details>
   <summary>📂 About Me (Click to view):</summary>
-  I'm a passionate data enthusiast with skills in data engineering and analysis. I'm always exploring ways to improve processes and solve real-world problems using data. 
+  I'm a self-taught person with skills in data engineering and analysis. I'm always exploring ways to improve processes and solve real-world problems using data. 
 </details>
-
 ---
 
 ## 🛠 Skills
@@ -45,15 +41,6 @@
   - [Analyzing Motorcycle Part Sales](#)
 </details>
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me :  
+- ⚡ Fun fact : ...
 -->
