@@ -9,9 +9,9 @@
 
 ## 🛠 Skills
 
-- **Programming Technologies : ** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Business Intelligence Tools : ** Excel, MS Power BI
-- **Project Management : ** Google Sheets, Notion
+- **Programming Technologies:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
+- **Business Intelligence Tools:**  Excel, MS Power BI
+- **Project Management:**  Google Sheets, Notion
   
 ---
 
