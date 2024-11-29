@@ -48,4 +48,4 @@
  </details>
 
  ## Connect with Me
-- [Email](chuncy0331@gmail.com)
+- [LinkedIn](chuncy0331@gmail.com)
