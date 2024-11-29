@@ -7,7 +7,7 @@
   
 </details>
 
-## 🛠 Skills
+## Skills
 
 - **Programming Technologies:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
 - **Business Intelligence Tools:**  Excel, MS Power BI
@@ -15,32 +15,37 @@
   
 ---
 
-## 📚 Projects
+## Projects
 ---
-
-### SQL
+ ### SQL
 <details>
-  <summary>▶️ Click to view</summary>
-  - [Hotel Operations - PostgreSQL](#)  
-  - [Analyzing Student's Mental Health Data - SQL](#)  
-  - [Other SQL Projects](#)  
-</details>
+  <summary> Click to view
+   </summary>
+  <ul>
+   <li><a href= "https://github.com/nicoleyang22/Uncovering-the-World-Oldest-Businesses-in-Python-and-SQL"> Uncovering the World Oldest Businesses
+   </a></li>
+  </ul>
+ </details>
 
-### Python
+  ### Python
 <details>
-  <summary>▶️ Click to view</summary>
-  - [Hotel Operations - PostgreSQL](#)  
-  - [Analyzing Student's Mental Health Data - SQL](#)  
-  - [When Was the Golden Era of Video Games? - PostgreSQL](#)  
-</details>
+  <summary> Click to view
+   </summary>
+  <ul>
+   <li><a href= "https://github.com/nicoleyang22/Google-Play-Store-ETL-Pipeline-in-Python"> Google Play Store Pipeline
+   </a></li>
+   <li><a href= "https://github.com/nicoleyang22/Inspecting-Electric-Vehicle-Charging-Trends-in-Python"> Inspecting Electric Vehicles
+   </a></li>
+  </ul>
+ </details>
 
-### Power BI
+ ### Power BI
 <details>
-  <summary>▶️ Click to view</summary>
-  - [Hotel Operations - PostgreSQL](#)  
-  - [Analyzing Student's Mental Health Data - SQL](#)  
-  - [Other SQL Projects](#)  
-  - [When Was the Golden Era of Video Games? - PostgreSQL](#)  
-  - [Analyze International Debt Statistics - PostgreSQL](#)  
-  - [Analyzing Motorcycle Part Sales](#)
-</details>
+  <summary> Click to view
+   </summary>
+  <ul>
+  </ul>
+ </details>
+
+ ## Connect with Me
+- [Email](chuncy331@gmail.com)
