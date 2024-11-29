@@ -24,9 +24,6 @@
   - [Hotel Operations - PostgreSQL](#)  
   - [Analyzing Student's Mental Health Data - SQL](#)  
   - [Other SQL Projects](#)  
-  - [When Was the Golden Era of Video Games? - PostgreSQL](#)  
-  - [Analyze International Debt Statistics - PostgreSQL](#)  
-  - [Analyzing Motorcycle Part Sales](#)
 </details>
 
 ### Python
@@ -34,10 +31,7 @@
   <summary>▶️ Click to view</summary>
   - [Hotel Operations - PostgreSQL](#)  
   - [Analyzing Student's Mental Health Data - SQL](#)  
-  - [Other SQL Projects](#)  
   - [When Was the Golden Era of Video Games? - PostgreSQL](#)  
-  - [Analyze International Debt Statistics - PostgreSQL](#)  
-  - [Analyzing Motorcycle Part Sales](#)
 </details>
 
 ### Power BI
