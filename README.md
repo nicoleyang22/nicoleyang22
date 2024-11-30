@@ -48,4 +48,4 @@
  </details>
 
  ## Connect with Me
-- [LinkedIn]()
+- [Email]()
