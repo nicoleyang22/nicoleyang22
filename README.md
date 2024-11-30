@@ -34,7 +34,7 @@
   <ul>
    <li><a href= "https://github.com/nicoleyang22/Google-Play-Store-ETL-Pipeline-in-Python"> Google Play Store Pipeline
    </a></li>
-   <li><a href= "https://github.com/nicoleyang22/Inspecting-Electric-Vehicle-Charging-Trends-in-Python"> Inspecting Electric Vehicles
+   <li><a href= "https://github.com/nicoleyang22/Inspecting-Electric-Vehicle-Charging-Trends-in-Python"> Inspecting Electric Vehicles Charging Trends
    </a></li>
   </ul>
  </details>
