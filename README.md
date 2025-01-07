@@ -10,7 +10,7 @@
 ## Skills
 
 - **Programming:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Data & Visualization Tools:**  Excel, MS Power BI
+- **Data & Visualization Tools:**  Excel, MS Power BI, Tableau
 - **Project Management:**  Google Sheets, Notion
   
 ---
@@ -46,6 +46,9 @@
   <ul>
   </ul>
  </details>
+
+ ### Tableau
+ 
 
  ## Connect with Me
 - [Email]()
