@@ -49,6 +49,7 @@
 
  ### Tableau
  
+ https://public.tableau.com/app/profile/chun.chi.yang/vizzes
 
  ## Connect with Me
-- [Email]()
+- [Email](chuncy0331@gmail.com)
