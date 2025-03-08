@@ -53,4 +53,5 @@
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
 
  ## Connect with Me
-- [Email](chuncy0331@gmail.com)
+- [Email] (chuncy0331@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/chun-chi-y-443437216)
