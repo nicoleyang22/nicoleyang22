@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <details>
-  <summary>📂 About Me (Click to view):</summary>
+  📂 About Me (Click to view):
 
-  "Turning data into insights, one query at a time."
+  ##"Turning data into insights, one query at a time."
 
   I'm a self-taught data enthusiast with a strong interest in data engineering and analytics.  
   I started my journey by exploring various tools and techniques to extract insights from raw data. 
