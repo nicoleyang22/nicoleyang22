@@ -2,15 +2,18 @@
 
 <details>
   <summary>📂 About Me (Click to view):</summary>
-  
-  I'm a self-taught person with skills in data engineering and analysis. I always explore ways to improve processes and solve real-world problems using data. 
+
+  "Turning data into insights, one query at a time."
+
+  I'm a self-taught data enthusiast with a strong interest in data engineering and analytics.  
+  I started my journey by exploring various tools and techniques to extract insights from raw data. 
   
 </details>
 
 ## Skills
 
 - **Programming:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Data & Visualization Tools:**  Excel, MS Power BI, Tableau
+- **Data & Visualization Tools:**  Excel, Power BI, Tableau
 - **Project Management:**  Google Sheets, Notion
   
 ---
