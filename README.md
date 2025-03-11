@@ -45,6 +45,7 @@
   <summary> Click to view
    </summary>
   <ul>
+    <li><a href = "https://github.com/nicoleyang22/E-Commerce-Analysis-in-Power-BI"> E-Commerce Analysis in Power BI
   </ul>
  </details>
 
