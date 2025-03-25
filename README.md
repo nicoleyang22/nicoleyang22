@@ -13,6 +13,7 @@
 - **Programming:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
 - **Data & Visualization Tools:**  Excel, Power BI, Tableau
 - **Project Management:**  Google Sheets, Notion
+- **Diagram:** Whimsical、Lucid
   
 ---
 
