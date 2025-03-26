@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  📂 About Me :
+## About Me
 
   ### "Turning data into insights, one query at a time."
 
