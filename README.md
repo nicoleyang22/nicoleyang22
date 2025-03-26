@@ -38,6 +38,8 @@
    </a></li>
    <li><a href= "https://github.com/nicoleyang22/Inspecting-Electric-Vehicle-Charging-Trends-in-Python"> Inspecting Electric Vehicles Charging Trends
    </a></li>
+   <li><a href= "https://github.com/nicoleyang22/Netflix-Data-Analysis-in-Python"> Netflix Data Analysis
+   </a></li>
   </ul>
  </details>
 
