@@ -24,7 +24,7 @@
   <summary> Click to view
    </summary>
   <ul>
-   <li><a href= "https://github.com/nicoleyang22/Uncovering-the-World-Oldest-Businesses-in-Python-and-SQL"> Uncovering the World Oldest Businesses
+   <li><a href= "https://github.com/nicoleyang22/Analyzing-Unicorn-Companies"> Analyzing Unicorn Companies
    </a></li>
   </ul>
  </details>
@@ -34,10 +34,6 @@
   <summary> Click to view
    </summary>
   <ul>
-   <li><a href= "https://github.com/nicoleyang22/Google-Play-Store-ETL-Pipeline-in-Python"> Google Play Store Pipeline
-   </a></li>
-   <li><a href= "https://github.com/nicoleyang22/Inspecting-Electric-Vehicle-Charging-Trends-in-Python"> Inspecting Electric Vehicles Charging Trends
-   </a></li>
    <li><a href= "https://github.com/nicoleyang22/Netflix-Data-Analysis-in-Python"> Netflix Data Analysis
    </a></li>
   </ul>
