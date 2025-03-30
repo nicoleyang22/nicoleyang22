@@ -27,6 +27,10 @@
    <li><a href= "https://github.com/nicoleyang22/Analyzing-Unicorn-Companies"> Analyzing Unicorn Companies
    </a></li>
   </ul>
+  <ul>
+   <li><a href= "https://github.com/nicoleyang22/Hotel-Operations-Analysis"> Hotel Operations Analysis
+   </a></li>
+  </ul>
  </details>
 
   ### Python
