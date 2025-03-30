@@ -28,7 +28,7 @@
    </a></li>
   </ul>
   <ul>
-   <li><a href= "https://github.com/nicoleyang22/Hotel-Operations-Analysis"> Hotel Operations Analysis
+   <li><a href= "https://github.com/nicoleyang22/Evaluating-Manufacturing-Process"> Evaluating Manufacturing Process
    </a></li>
   </ul>
  </details>
