@@ -41,6 +41,10 @@
    <li><a href= "https://github.com/nicoleyang22/Netflix-Data-Analysis-in-Python"> Netflix Data Analysis
    </a></li>
   </ul>
+  <ul>
+   <li><a href= "https://github.com/nicoleyang22/Google-Play-Store-ETL-Pipeline"> Google-Play-Store-Pipeline
+   </a></li>
+  </ul>
  </details>
 
  ### Power BI
