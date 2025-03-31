@@ -11,9 +11,9 @@
 ## Skills
 
 - **Programming:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Data & Visualization Tools:**  Excel, Power BI, Tableau
+- **Data & Visualization Tools:**  Power BI, Tableau
 - **Project Management:**  Google Sheets, Notion
-- **Diagram:** Whimsical、Lucid
+- **Diagram:** Whimsical、Lucid、DBDiagram
   
 ---
 
