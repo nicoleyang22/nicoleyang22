@@ -48,13 +48,6 @@
  </details>
 
  ### Power BI
-<details>
-  <summary> Click to view
-   </summary>
-  <ul>
-    <li><a href = "https://github.com/nicoleyang22/E-Commerce-Analysis-in-Power-BI"> E-Commerce Analysis in Power BI
-  </ul>
- </details>
 
  ### Tableau
  
@@ -62,4 +55,4 @@
 
  ## Connect with Me
 - [Email] (chuncy0331@gmail.com)
-- [LinkedIn] (https://www.linkedin.com/in/chun-chi-y-443437216)
+- [LinkedIn] (www.linkedin.com/in/nicole-y-33312025v)
