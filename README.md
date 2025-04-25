@@ -16,7 +16,7 @@
 - **Diagram:** Whimsical | Lucid | DBDiagram
   
 
-## ![](backlog.png) Projects
+## 📁 Projects
 ---
  ### SQL
 <details>
@@ -51,6 +51,11 @@
  ### Tableau
  
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
+
+ ### ✨ Fun Facts
+- 🤺 I used to join the Fencing Club !
+- 🗒️ I writing blogs on social media platform.
+- ![alt text](image.png) Every data puzzle solved is another masterpiece created.
 
  ## 🤙🏻Contact Me
 
