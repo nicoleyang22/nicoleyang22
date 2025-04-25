@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is <a href="https://github.com/nicoleyang22/" style="color: Yellow;">Nicole Yang</a>👋</h1>
+<h1 align="center">Hi, this is <a href="https://github.com/nicoleyang22/" style="color:yellow;">Nicole Yang</a>👋</h1>
 
 
 ## 👩‍💻 About Me
@@ -62,6 +62,6 @@
 Feel free to reach out via [email](mailto:chuncy0331@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/nicole-y-33312025v).
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+watching+~&size=20&color=Yellow" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+watching+~&size=20&color=yellow" alt="Typing Animation"/>
 </p>
 
