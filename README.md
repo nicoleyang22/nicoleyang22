@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi, this is <a href="https://github.com/uuboyscy/">Nicole Yang</a> 👋</h1>
 
-## About Me
+## 👩‍💻 About Me
 
   ### "Turning data into insights, one query at a time."
 
@@ -8,16 +8,15 @@
   I started my journey by exploring various tools and techniques to extract insights from raw data. 
   
 
-## Skills
+### ⚙️ Skills & Tools
 
-- **Programming:**  SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)  
-- **Data & Visualization Tools:**  Power BI, Tableau
-- **Project Management:**  Google Sheets, Notion
-- **Diagram:** Whimsical、Lucid、DBDiagram
+- **Programming:**  SQL (PostgreSQL, MySQL) | Python (Pandas, Numpy, Matplotlib)  
+- **Data & Visualization Tools:**  Power BI | Tableau
+- **Project Management:**  Notion | Google Sheets
+- **Diagram:** Whimsical | Lucid | DBDiagram
   
----
 
-## Projects
+## ![](backlog.png) Projects
 ---
  ### SQL
 <details>
@@ -53,6 +52,7 @@
  
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
 
- ## Connect with Me
-- [Email] (chuncy0331@gmail.com)
-- [LinkedIn] (www.linkedin.com/in/nicole-y-33312025v)
+ ## 🤙🏻Contact Me
+
+Feel free to reach out via [email](mailto:chuncy0331@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/nicole-y-33312025v).
+
