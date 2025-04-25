@@ -17,7 +17,7 @@
   
 
 ## 📁 Projects
----
+
  ### SQL
 <details>
   <summary> Click to view
@@ -61,6 +61,6 @@
 Feel free to reach out via [email](mailto:chuncy0331@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/nicole-y-33312025v).
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+watching+~" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=center=Thanks+for+watching+~&size=20" alt="Typing Animation"/>
 </p>
 
