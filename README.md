@@ -54,8 +54,9 @@
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
 
  ### ✨ Fun Facts
-- 🤺 I used to join the Fencing Club !
+- 🤺 I used to join the Fencing Club and join competitions !
 - 🗒️ I write blogs on social media platform.
+- ✈️ Certified Foreign Language Tour Guide (National Qualification Exam Pass).
 
  ## 🤙🏻Contact Me
 
