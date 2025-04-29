@@ -15,6 +15,7 @@
 - **Data & Visualization Tools:**  Power BI | Tableau
 - **Project Management:**  Notion | Google Sheets
 - **Diagram:** Whimsical | Lucid | DBDiagram
+- **No-Code Automation Platform:** Make | Power Automate
   
 
 ## 📁 Projects
