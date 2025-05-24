@@ -50,6 +50,8 @@
 
  ### Power BI
 
+ 👉 [HealthCare Analysis](https://app.powerbi.com/view?r=eyJrIjoiYTUxZWEyNzgtNDBkZS00ZDNjLWJhNzYtNjM4NzMwMmU0YTA2IiwidCI6IjM5OTIzMmZiLTE3ZDEtNDVjYS1iZGE2LTViNTQwNDQxYmQ2MiIsImMiOjEwfQ%3D%3D)
+
  ### Tableau
  
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
