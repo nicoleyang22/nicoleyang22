@@ -1,6 +1,5 @@
 <h1 align="center">Hi, this is <a href="https://github.com/nicoleyang22/" style="color:yellow;">Nicole Yang</a>👋</h1>
 
-
 ## 👩‍💻 About Me
 
   ### "Turning data into insights, one query at a time."
@@ -50,9 +49,7 @@
 
  ### Power BI
 
- 👉 [HealthCare Analysis](https://app.powerbi.com/view?r=eyJrIjoiYTUxZWEyNzgtNDBkZS00ZDNjLWJhNzYtNjM4NzMwMmU0YTA2IiwidCI6IjM5OTIzMmZiLTE3ZDEtNDVjYS1iZGE2LTViNTQwNDQxYmQ2MiIsImMiOjEwfQ%3D%3D)
-
-📝 [My Notion Dashboard](https://spiced-sandal-1b1.notion.site/BI-Project-HealthCare-Analysis-20345bd66b0e80b3beead96ae772970e?source=copy_link)
+ 👉 [HealthCare Analysis](https://app.powerbi.com/view?r=eyJrIjoiYTUxZWEyNzgtNDBkZS00ZDNjLWJhNzYtNjM4NzMwMmU0YTA2IiwidCI6IjM5OTIzMmZiLTE3ZDEtNDVjYS1iZGE2LTViNTQwNDQxYmQ2MiIsImMiOjEwfQ%3D%3D) / [Notion Note](https://spiced-sandal-1b1.notion.site/BI-Project-HealthCare-Analysis-20345bd66b0e80b3beead96ae772970e?source=copy_link)
 
 
  ### Tableau
