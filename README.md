@@ -1,4 +1,4 @@
-<h1 align="center">Nicole Yang</h1>
+<h1 align="center">Hi, this is Nicole !</h1>
 <p align="center"> Business Analyst • Power BI • SQL • Python • Data Analytics </p>
 
 
