@@ -11,7 +11,7 @@
 
 ### ⚙️ Skills & Tools
 
-- **Programming:**  SQL (PostgreSQL, MySQL) | Python (Pandas, Numpy, Matplotlib)  
+- **Programming:**  SQL (PostgreSQL, MySQL) | Python (Pandas, Numpy, Matplotlib) | DBT 
 - **Data & Visualization Tools:**  Power BI | Tableau
 - **Project Management:**  Notion | Google Sheets
 - **Diagram:** Whimsical | Lucid | DBDiagram
