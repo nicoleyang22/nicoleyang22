@@ -1,21 +1,22 @@
-<h1 align="center">Hi, this is <a href="https://github.com/nicoleyang22/" style="color:yellow;">Nicole Yang</a>👋</h1>
+<h1 align="center">Nicole Yang</h1>
+<p align="center"> Business Analyst • Power BI • SQL • Python • Data Analytics </p>
 
 
 ## 👩‍💻 About Me
 
-  ### "Turning data into insights, one query at a time."
+  ### "Turning data into actionable business insights !"
 
-  I'm a self-taught data enthusiast interested in data engineering and analytics.  
-  I started my journey by exploring various tools and techniques to extract insights from raw data. 
-  
+Currently working as a Business Analyst with experience in Power BI dashboard development, KPI analysis, and business intelligence reporting.
+
+My background includes data analytics, SQL, Python, and foundational data engineering concepts, with a strong interest in analytics engineering and AI-assisted analytics workflows.
 
 ### ⚙️ Skills & Tools
 
-- **Programming:**  SQL (PostgreSQL, MySQL) | Python (Pandas, Numpy, Matplotlib) | DBT 
-- **Data & Visualization Tools:**  Power BI | Tableau
-- **Project Management:**  Notion | Google Sheets
-- **Diagram:** Whimsical | Lucid | DBDiagram
-- **No-Code Automation Platform:** Make | Power Automate
+- **Programming :**  SQL (PostgreSQL, MySQL) | Python (Pandas, Numpy, Matplotlib)| DBT
+- **Data Engineering :** ETL Pipeline | Data Modeling  
+- **Data Visualization :**  Power BI | Tableau
+- **Project Management :**  Notion | Google Sheets
+- **No-Code Automation Workflow Platform :** Make | Power Automate
   
 
 ## 📁 Projects
@@ -56,16 +57,15 @@
  
  https://public.tableau.com/app/profile/chun.chi.yang/vizzes
 
- ### ✨ Fun Facts
-- 🤺 I used to join the Fencing Club and join competitions !
-- 🗒️ I write blogs on social media platform.
+ ### ✨ Beyond Data
+- 🗒️ I write blogs on social media platforms.
 - ✈️ Certified Foreign Language Tour Guide (National Qualification Exam Pass).
 
  ## 🤙🏻Contact Me
 
-Feel free to reach out via [email](mailto:chuncy0331@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/nicole-y-33312025v).
+Feel free to reach out via [email](mailto:chuncy0331@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/ccy2605).
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+watching+~&size=20&color=yellow" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+watching+~&size=20&color=D8B08C" alt="Typing Animation"/>
 </p>
 
